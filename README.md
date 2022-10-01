@@ -1,2 +1,0 @@
-# CA-wissenaire
-Campus Ambassador
